@@ -20,7 +20,7 @@ Execute the C Program for the desired output.
 # PROGRAM:
 
 ## C program that receives a message from message queue and display them
-
+```c
 //To implement the communication between  two processes using message queues API using C programming
 // Import necessary libraries
 
@@ -95,7 +95,7 @@ int main(int argc, char *argv[]) {
 }
 
 
-
+```
 
 
 
